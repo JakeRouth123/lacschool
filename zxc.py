@@ -1,0 +1,16 @@
+#jake routh
+#2/19/16
+#things
+
+
+answers = []
+number = input().split()
+for i in range int(l):
+
+
+    if a <= b <= c or c <= b <= a:
+        print(b)
+    elif b <= a <= c or c <= a <= b:
+        print(a)
+    else:
+        print(c)
